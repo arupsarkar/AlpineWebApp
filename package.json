@@ -1,0 +1,25 @@
+{
+  "name": "alpinewebapp",
+  "version": "1.0.0",
+  "description": "Web Service App for Alpine eCommerce Mobile App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI/ML",
+    "Service",
+    "Layer"
+  ],
+  "author": "Arup Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^3.5.4",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "13.3.0",
+    "npm": "6.13.4"
+  }
+}
