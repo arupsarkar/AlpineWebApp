@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/speech": "^3.5.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "engines": {
     "node": "13.3.0",
